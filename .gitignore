@@ -1,0 +1,9 @@
+# File temporanei di Microsoft Word e Office
+~$*.docx
+~$*.doc
+*.tmp
+
+# File di sistema e cache
+.DS_Store
+Thumbs.db
+*~
